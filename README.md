@@ -23,3 +23,8 @@ The notes for the different drum sounds are included as comments on top of the f
 https://www.zendrum.com/resource-site/drumnotes.htm
 
 
+##############################################################
+The interactive version of the project that has a lcd screen for configuration and sd card for saving and loading the configuration of the drums is inside the V2 folder but has flaws with the SD card. If you have knowledge on SPI and LCD, I would be glad if you can solve the problem I mentioned in the comments and share the solution with me
+##############################################################
+
+
