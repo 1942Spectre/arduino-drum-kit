@@ -19,4 +19,7 @@ I used 1M resistors.
 
 The notes for the different drum sounds are included as comments on top of the file. You need to set the sounds to the pins.
 
+-> For MIDI drum notes, see
+https://www.zendrum.com/resource-site/drumnotes.htm
+
 
