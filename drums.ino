@@ -43,12 +43,9 @@ int crash_note = 49;
 
 int threshold = 0;
 
-int UPDOWN = 0;
-int NEXTBACK = 0;
-
 void setup() {
   MIDI.begin();
-  Serial.begin(38400); // Do not forget to select the same baudrate (38400) with Hairless MIDI.
+  Serial.begin(38400);
   lcd.begin(16,2);
 }
 
